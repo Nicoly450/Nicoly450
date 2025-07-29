@@ -31,7 +31,7 @@ Automação com Python, análise com SQL e visualizações no Power BI.
 
 ### 📫 Contato
 
-- 📧 E-mail: [nicoly.cardoso120421@gmail.com](mailto:nicoly.cardoso450@gmail.com)
+✉️ Me chama no e-mail: [nicoly.cardoso450@gmail.com](mailto:nicoly.cardoso450@gmail.com)
 
 ---
 
