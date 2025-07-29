@@ -1,6 +1,6 @@
 <h2 align="center">✨ Olá, eu sou a Nicoly Cardoso!</h2>
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas + Marketing <br>
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas e Marketing <br>
   🚀 Em transição para a área de Dados <br>
   📊 Apaixonada por análise, automação e visualização de dados
 </p>
