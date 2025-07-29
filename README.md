@@ -5,6 +5,16 @@
   📊 Apaixonada por análise, automação e visualização de dados
 </p>
 
+🚀 Ferramentas e Tecnologias que uso:
+<p> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" width="40"/> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" title="Excel" width="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="40"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code" width="40"/> </p>
+📦 **Bibliotecas Python que já utilizei:**
+
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![SQLAlchemy](https://img.shields.io/badge/-SQLALCHEMY-cf2c2c?style=for-the-badge&logo=databricks&logoColor=white)](https://www.sqlalchemy.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-ff7f0e?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![OS](https://img.shields.io/badge/-OS_Module-333333?style=for-the-badge&logo=windows&logoColor=white)](https://docs.python.org/3/library/os.html)
+
+
 ---
 
 ### 💡 Sobre mim
